@@ -11,4 +11,4 @@ race: $(OBJ)
 main.o: main.cpp
 
 clean:
-  rm -f race *.o
+	rm -f race *.o
