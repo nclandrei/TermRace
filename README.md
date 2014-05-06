@@ -1,4 +1,4 @@
-RacingGame
+TermRace
 ==========
 
 Terminal-based racing game completely created in C++. Therefore, Unix-based operating system is needed to play.
